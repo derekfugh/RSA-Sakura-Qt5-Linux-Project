@@ -1,4 +1,4 @@
-# RSA-Sakura-Qt (Classic / Cross-Platform)
+# RSA-Sakura-Qt (Linux / Cross-Platform)
 
 本仓库提供基于 **Qt 5.15.2** 构建的 RSA-Sakura (Linux) GUI 版本。主要用于兼容旧版操作系统（如 Ubuntu 18.04 及更早版本、Windows 7/8），并提供开箱即用的免安装依赖包。
 
