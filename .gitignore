@@ -1,0 +1,13 @@
+# 编译构建目录
+build/
+build-*/
+cmake-build-*/
+
+# IDE 本地配置
+CMakeLists.txt.user
+*.autosave
+
+# 编译产生的临时文件
+*.o
+moc_*.cpp
+ui_*.h

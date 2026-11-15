@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/appdir">
+        <file>images/Keychain1024.png</file>
+        <file>images/ToolbarAdvanced_1024.png</file>
+        <file>images/izcolorplanet1024.png</file>
+        <file>images/ruby1024.png</file>
+        <file>images/sapphire1024.png</file>
+    </qresource>
+</RCC>
