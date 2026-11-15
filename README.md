@@ -24,7 +24,7 @@ This repository provides the **Qt 5.15** version of the RSA-Sakura (Linux) GUI. 
 
 安装快捷方式：./install_driver_linux_x64.sh
 
-移除快捷方式：./install.sh -u
+移除快捷方式：./install_driver_linux_x64.sh -u
 
 📦 使用压缩库
 
